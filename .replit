@@ -1,2 +1,2 @@
 language = "julia"
-run = "main.jl"
+run = "julia main.jl"
